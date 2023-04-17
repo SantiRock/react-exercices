@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-exercices/static/css/main.93a0497a.css",
+    "main.js": "/react-exercices/static/js/main.bb44f83a.js",
+    "index.html": "/react-exercices/index.html",
+    "main.93a0497a.css.map": "/react-exercices/static/css/main.93a0497a.css.map",
+    "main.bb44f83a.js.map": "/react-exercices/static/js/main.bb44f83a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93a0497a.css",
+    "static/js/main.bb44f83a.js"
+  ]
+}
