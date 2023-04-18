@@ -6,3 +6,28 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+.container {
+  min-width: 320px;
+}
+
+.container1 {
+  margin: auto;
+  padding: 0 20px;
+  min-width: 320px;
+  max-width: 500px;
+  text-align: justify;
+
+}
+
+.btn {
+  margin-right: 15px;
+}
+
+@media screen and (min-width: 600px) {
+  .container1 {
+    padding: 0 50px;
+
+  }
+  
+}
